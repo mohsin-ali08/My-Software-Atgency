@@ -1,8 +1,17 @@
-# React + Vite
+# My Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for **My Agency Website**. This is a professional website showcasing our services, projects, and company information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design:** Optimized for desktop and mobile devices.
+- **Service Listings:** Display of the services we offer.
+- **Project Showcase:** Highlights of our completed projects.
+- **Contact Form:** A way for potential clients to reach out to us.
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS , Ant-design ,
+- **Backend:** Firebase (for authentication and database)
+- **Version Control:** Git, GitHub
+
